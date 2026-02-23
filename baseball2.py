@@ -14,7 +14,7 @@ from aiohttp import ClientConnectorError
 
 
 # Define your Discord bot token
-TOKEN = 'MTIzMDMxMzI1NzI0ODYyMDU4NA.Gg5Uf5.oqBcHHCHUqD5iiQYyMz8dpNGMz7_9ANBc2ezfg'
+TOKEN = 'token here'
 
 destination_channel_id = 1230531614157570219
 score_channel_id = 1230531555777318912
